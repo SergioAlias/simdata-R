@@ -1,5 +1,5 @@
 # simdata-R
-R script ```simdata.R``` generates random tsv/csv numeric files to use as demo data in your scripts. You can call it from terminal as follows:
+R script ```simdata.R``` generates random tsv/csv numeric files to use as demo data in your scripts. It generates random numbers from 0 to 1 with 4 decimals. You can call it from terminal as follows:
 
 ```bash
 Rscript simdata.R
