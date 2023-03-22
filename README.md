@@ -33,7 +33,7 @@ cat demodata_20r_10c.tsv
 0.4994	0.2202	0.5263	0.6528	0.0112	0.5778	0.4291	0.7804	0.2256	0.5092
 ```
 
-We can modify all the deafult parameters:
+We can modify all the deafult parameters. A complete list:
 
 - ```-r``` / ```--rows```: number of rows (default is 20)
 - ```-c``` / ```--cols```: number of columns (default is 10)
